@@ -6,3 +6,4 @@ tags={
 name="The Pirate Republic"
 supported_version="2.8.1"
 path="mod/pirate_republic"
+picture="pirate_republic.png"

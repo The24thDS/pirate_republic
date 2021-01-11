@@ -19,7 +19,7 @@ country_event = {
     trigger = {
       OR = {
         has_militarist_government = yes
-        has_government = gov_bandit_commune
+        has_government = gov_bandit_commun
       }
     }
   }

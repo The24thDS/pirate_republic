@@ -1,9 +1,9 @@
-version="1.0.2"
+version="1.0.3"
 tags={
 	"Events"
 	"Gameplay"
 }
 name="The Pirate Republic"
-supported_version="3.0.*"
+supported_version="3.2.*"
 path="mod/pirate_republic"
-picture="pirate_republic.png"
+picture="thumbnail.png"

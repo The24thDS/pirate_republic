@@ -11,7 +11,7 @@ event = {
   trigger = { any_country = { is_country_type = pirate } }
 
   immediate = {
-    every_country = {
+    every_playable_country = {
       limit = {
         NOR = {
           has_country_flag = pirates_spawned
@@ -461,7 +461,7 @@ country_event = {
       set_country_type = default
       set_subject_of = {
         who = Root
-        subject_type = tributary
+        preset = preset_tributary
       }
     }
   }

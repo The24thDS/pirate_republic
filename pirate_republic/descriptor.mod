@@ -5,5 +5,5 @@ tags={
 }
 name="The Pirate Republic"
 picture="thumbnail.png"
-supported_version="3.2.*"
+supported_version="3.4.*"
 remote_file_id="2355563290"

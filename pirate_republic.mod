@@ -4,6 +4,6 @@ tags={
 	"Gameplay"
 }
 name="The Pirate Republic"
-supported_version="3.2.*"
+supported_version="3.4.*"
 path="mod/pirate_republic"
 picture="thumbnail.png"
